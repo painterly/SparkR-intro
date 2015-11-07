@@ -1,4 +1,4 @@
-##Title: Gettin Started with Spark in R
+##Title: Getting Started with Spark in R
 
 #This Spark in R tutorial will show you how to get started and test it on your
 #local machine. The Spark interface to R is very intuitive and familiar for SQl or R users.
